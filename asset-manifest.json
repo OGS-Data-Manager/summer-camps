@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/summer-camps/static/css/main.10171d71.css",
+    "main.js": "/summer-camps/static/js/main.d2b0d995.js",
+    "index.html": "/summer-camps/index.html",
+    "main.10171d71.css.map": "/summer-camps/static/css/main.10171d71.css.map",
+    "main.d2b0d995.js.map": "/summer-camps/static/js/main.d2b0d995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10171d71.css",
+    "static/js/main.d2b0d995.js"
+  ]
+}
